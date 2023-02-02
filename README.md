@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pegisis!
 - 👀 I’m interested in Unity and AltSpaceVR World Building
-- 🌱 I’m currently learning Unity, AltSpaceVR, Blender, and GitHub
+- 🌱 I’m currently learning Unity, Blender, and GitHub
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me pldrich33@gmail.com
 
